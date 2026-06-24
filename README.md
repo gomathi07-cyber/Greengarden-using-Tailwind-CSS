@@ -39,7 +39,7 @@ This project was developed to practice and demonstrate responsive web design ski
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/gomathi07-cyber/greenden.git
+git clone https://github.com/gomathi07-cyber/greengarden.git
 ```
 
 2. Navigate to the project folder:
@@ -58,10 +58,6 @@ The website is fully responsive and optimized for:
 * Tablets
 * Laptops
 * Desktop Screens
-
-## 🔗 Live Demo
-
-
 
 ## 👨‍💻 Author
 
